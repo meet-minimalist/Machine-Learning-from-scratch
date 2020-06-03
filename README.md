@@ -3,6 +3,7 @@ Repo contains all machine learning algorithms implemented in pure python and num
 
 ### Todo - Following algorithms to be covered in this repo. This will be kept updated with new algorithms as well.
 [-] k-Nearest Neighbour
+
 [-] k-Means clustering
 [-] Decision Trees (Classification as well as Regression)
 [-] Random Forests
