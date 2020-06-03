@@ -2,26 +2,26 @@
 Repo contains all machine learning algorithms implemented in pure python and numpy without Scikit Learn. The sole purpose of this repo is to explore the core algorithm without any kind of library. Once we know the inner details of these algorithms, we can use highly optimized Scikit Learn implementations.
 
 ### Todo - Following algorithms to be covered in this repo. This will be kept updated with new algorithms as well.
-[-] k-Nearest Neighbour
+- [ ] k-Nearest Neighbour
 
-[ - ] k-Means clustering
+- [ ] k-Means clustering
 
-[-] Decision Trees (Classification as well as Regression)
+- [ ] Decision Trees (Classification as well as Regression)
 
-[-] Random Forests
+- [ ] Random Forests
 
-[-] Gradient Boosted Decision Trees
+- [ ] Gradient Boosted Decision Trees
 
-[-] Adaboost
+- [ ] Adaboost
 
-[-] PCA
+- [ ] PCA
 
-[-] T-SNE
+- [ ] T-SNE
 
-[-] Linear Discriminant Analysis
+- [ ] Linear Discriminant Analysis
 
-[-] Support Vector Machines
+- [ ] Support Vector Machines
 
-[-] Linear Regression
+- [ ] Linear Regression
 
-[-] Logistic Regression
+- [ ] Logistic Regression
