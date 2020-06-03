@@ -5,13 +5,23 @@ Repo contains all machine learning algorithms implemented in pure python and num
 [-] k-Nearest Neighbour
 
 [-] k-Means clustering
+
 [-] Decision Trees (Classification as well as Regression)
+
 [-] Random Forests
+
 [-] Gradient Boosted Decision Trees
+
 [-] Adaboost
+
 [-] PCA
+
 [-] T-SNE
+
 [-] Linear Discriminant Analysis
+
 [-] Support Vector Machines
+
 [-] Linear Regression
+
 [-] Logistic Regression
